@@ -14,7 +14,7 @@ My name is Kamil Barszczak currently studying Computer Science and Artificial In
 - Social skills
 
 #### You can reach me here :mailbox:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-barszczak-886115267/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamilbarszczak62@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-barszczak/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamilbarszczak62@gmail.com)
 
 #### Here are some stats about my GitHub :chart_with_upwards_trend:
 
