@@ -1,15 +1,21 @@
-## Hi 👋
+## Hi :wave:
 
-### Who am I?
+Welcome to my GitHub page. It's nice to meet you.
 
-### What am I good at?
+#### Something about me :mortar_board:
 
-### You can reach me here:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-barszczak-886115267/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamilbarszczak62@gmail.com)
+My name is Kamil Barszczak currently studying Computer Science and Artificial Intelligence at AGH University of Science and Technology.
 
-### Here are some stats about my GitHub
+#### My best sides :zap:
+ 
+- Java
+- Design Patterns
+- Artificial Intelligence
+- Social skills
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbarszczak&show_icons=true&theme=merko)
+#### You can reach me here :mailbox:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-barszczak-886115267/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamilbarszczak62@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbarszczak&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+#### Here are some stats about my GitHub :chart_with_upwards_trend:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbarszczak&show_icons=true&theme=gruvbox&langs_count=8&hide=Jupyter%20Notebook,cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
