@@ -18,4 +18,4 @@ My name is Kamil Barszczak currently studying Computer Science and Artificial In
 
 #### Here are some stats about my GitHub :chart_with_upwards_trend:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbarszczak&show_icons=true&theme=gruvbox&langs_count=8&hide=Jupyter%20Notebook,cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbarszczak&show_icons=true&theme=gruvbox&langs_count=8&hide=Jupyter%20Notebook,cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbarszczak&show_icons=true&hide=stars&theme=gruvbox&count_private=true&line_height=29)
