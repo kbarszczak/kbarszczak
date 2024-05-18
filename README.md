@@ -7,7 +7,8 @@ Welcome to my GitHub page. It's nice to meet you.
 My name is Kamil Barszczak currently studying Computer Science and Artificial Intelligence at AGH University of Science and Technology.
 
 #### My best sides :zap:
- 
+
+- Scala
 - Java
 - Design Patterns
 - Artificial Intelligence
